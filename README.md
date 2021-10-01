@@ -13,6 +13,7 @@ The purpose of this analysis is to understand how PyBer is doing in each city ty
 
 - Rural cities have approximately 5 times less riders, approximately 6 times less total drivers and approximately 5 times less in total fares than suburban cities but only being 4 dollars more in the average per ride with $34.62 compared to suburban cities average fare per ride being $30.97.
 
+**Total Fare by City Type Line Chart:**
 ![Total Fare by City Type Line Chart](analysis/PyBer_fare_summary.png)
 
 - All three city types hit a peak near the end of febuary

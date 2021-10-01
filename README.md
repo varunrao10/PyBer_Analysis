@@ -18,7 +18,7 @@ The purpose of this analysis is to understand how PyBer is doing in each city ty
 
 - All three city types hit a peak near the end of febuary
 - Suburban cities has a increase in fares close to mid april, urban cities slightly decline and rural cities plateau 
-- Rurual cities hit their highest peak in april
+- Rural cities hit their highest peak in april
 
 ## Summary:
 Three business recommendations I have to address disparties among the city types would be to:

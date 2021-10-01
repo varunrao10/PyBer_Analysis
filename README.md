@@ -21,7 +21,7 @@ The purpose of this analysis is to understand how PyBer is doing in each city ty
 - Rurual cities hit their highest peak in april
 
 ## Summary:
-Three business recommendations the address disparties among the city types would be to:
+Three business recommendations I have to address disparties among the city types would be to:
 
 1.  Increase the number of suburban drivers so that the average fare per ride is closer to urban cities thus increasing the number of rides as customers will feel more inclined to ride with PyBer
 2.  Give discounts at the troughs shown by the Total Fare by City Type Line Chart to get more customers 

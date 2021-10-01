@@ -25,6 +25,6 @@ Three business recommendations the address disparties among the city types would
 
 1.  Increase the number of suburban drivers so that the average fare per ride is closer to urban cities thus increasing the number of rides as customers will feel more inclined to ride with PyBer
 2.  Give discounts at the troughs shown by the Total Fare by City Type Line Chart to get more customers 
-3.   Charge less in rural cities to increase the number of rides 
+3.   Charge less in rural cities to increase the number of rides as there is much less demand in this area
 
 
